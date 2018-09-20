@@ -15,7 +15,6 @@ public class MyFollowScript : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
->>>>>>> 2af4cbf94e364f75d6be1bd2fd6a491786158521
 	void Update () {
         dist = Mathf.Sqrt(Mathf.Pow(this.transform.position.x - target.transform.position.x, 2) + 
             Mathf.Pow(this.transform.position.y - target.transform.position.y, 2));
