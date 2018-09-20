@@ -11,7 +11,7 @@ public class MyFollowScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        speed = .5f;
+        speed = .50001f;
 	}
 	
 	// Update is called once per frame
